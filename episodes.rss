@@ -13,7 +13,7 @@ Participe da melhor comunidade brasileira de RPG!</description>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
         <pubDate>Thu, 07 Mar 2019 00:00:15 -0300</pubDate>
-        <lastBuildDate>Thu, 28 Feb 2019 00:19:29 -0300</lastBuildDate>
+        <lastBuildDate>Thu, 28 Feb 2019 13:09:03 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,23 +39,5 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
-        <item>
-            <title>Conto #1 – Força de Vontade</title>
-            <link>https://dungeon.gg/cronicas/s01e02</link>
-            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg.]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 14 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e02</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e02.m4a" length="12020223" type="audio/x-m4a"/>
-            <guid isPermaLink="false">208C2A8F-A887-4A50-984D-2BBED555E565</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:summary>Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg.</itunes:summary>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>6:10</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Conto #1 – Força de Vontade</itunes:title>
-        </item>
     </channel>
 </rss>
