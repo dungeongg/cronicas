@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
         <title>Crônicas da Dungeon</title>
-        <link>https://raw.githubusercontent.com/dungeongg/cronicas/master/episodes.rss</link>
+        <link>https://dungeon.gg/cronicas</link>
         <description>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
 Temos os jogos e os blablablás, mas também muito mais! Entrevistas, storytelling, conteúdo nacional e todas as ideias mais nonsense da internet.
 Participe da melhor comunidade brasileira de RPG!</description>
@@ -13,13 +13,13 @@ Participe da melhor comunidade brasileira de RPG!</description>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
         <pubDate>Thu, 07 Mar 2019 00:00:15 -0300</pubDate>
-        <lastBuildDate>Thu, 28 Feb 2019 00:03:38 -0300</lastBuildDate>
+        <lastBuildDate>Thu, 28 Feb 2019 00:19:29 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
-            <link>https://raw.githubusercontent.com/dungeongg/cronicas/master/episodes.rss</link>
+            <link>https://dungeon.gg/cronicas</link>
         </image>
-        <atom:link href="https://raw.githubusercontent.com/dungeongg/cronicas/master/episodes.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://dungeon.gg/cronicas" rel="self" type="application/rss+xml"/>
         <itunes:author>dungeon.gg</itunes:author>
         <itunes:subtitle>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.</itunes:subtitle>
         <itunes:summary>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
