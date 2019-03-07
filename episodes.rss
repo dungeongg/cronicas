@@ -13,7 +13,7 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
         <pubDate>Thu, 07 Mar 2019 00:00:15 -0300</pubDate>
-        <lastBuildDate>Thu, 07 Mar 2019 00:42:33 -0300</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2019 15:52:33 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -40,13 +40,36 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>Conto #1 – Força de Vontade</title>
+            <title>Crônicas da Dungeon #1 – Apresentação</title>
             <link>https://dungeon.gg/cronicas/s01e01</link>
-            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.]]></description>
+            <description><![CDATA[<p>Quem somos? De onde viemos? O que comemos?
+<br />Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio de piadas ruins. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</p>]]></description>
             <author>cronicas@dungeon.gg</author>
             <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
             <comments>https://dungeon.gg/cronicas/s01e01</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e01.m4a" length="12020223" type="audio/x-m4a"/>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e01.m4a" length="29510367" type="audio/x-m4a"/>
+            <guid isPermaLink="false">E1577F72-012D-4A19-A302-991623FDF495</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Quem somos? De onde viemos? O que comemos?</itunes:subtitle>
+            <itunes:summary>Quem somos? De onde viemos? O que comemos?
+Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio de piadas ruins. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</itunes:summary>
+            <itunes:keywords>dungeon,rpg,jogo,nerd,storytelling,historia,conto,contos,bate papo,d20,dragao,dragons</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>15:13</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crônicas da Dungeon #1 – Apresentação</itunes:title>
+        </item>
+        <item>
+            <title>Conto #1 – Força de Vontade</title>
+            <link>https://dungeon.gg/cronicas/s01e02</link>
+            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e02</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e02.m4a" length="12020223" type="audio/x-m4a"/>
             <guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
             <itunes:author>dungeon.gg</itunes:author>
             <itunes:subtitle>Os últimos momentos de um cavaleiro no campo de batalha.</itunes:subtitle>
@@ -56,7 +79,7 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>6:10</itunes:duration>
             <itunes:season>1</itunes:season>
-            <itunes:episode>1</itunes:episode>
+            <itunes:episode>2</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Conto #1 – Força de Vontade</itunes:title>
         </item>
