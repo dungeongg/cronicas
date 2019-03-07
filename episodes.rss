@@ -5,7 +5,7 @@
         <link>https://dungeon.gg/cronicas</link>
         <description>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
 Temos os jogos e os blablablás, mas também muito mais! Entrevistas, storytelling, conteúdo nacional e todas as ideias mais nonsense da internet.
-Participe da melhor comunidade brasileira de RPG!</description>
+Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</description>
         <generator>Feeder 3 3.6.2(3180); Mac OS X Version 10.14.3 (Build 18D109) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>pt-br</language>
@@ -13,7 +13,7 @@ Participe da melhor comunidade brasileira de RPG!</description>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
         <pubDate>Thu, 07 Mar 2019 00:00:15 -0300</pubDate>
-        <lastBuildDate>Thu, 28 Feb 2019 13:09:03 -0300</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2019 00:42:33 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,5 +39,26 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Conto #1 – Força de Vontade</title>
+            <link>https://dungeon.gg/cronicas/s01e01</link>
+            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e01</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e01.m4a" length="12020223" type="audio/x-m4a"/>
+            <guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Os últimos momentos de um cavaleiro no campo de batalha.</itunes:subtitle>
+            <itunes:summary>Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</itunes:summary>
+            <itunes:keywords>força,vontade,conto,batalha,guerra,cavaleiro,goblins</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>6:10</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Conto #1 – Força de Vontade</itunes:title>
+        </item>
     </channel>
 </rss>
