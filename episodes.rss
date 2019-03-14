@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Fri, 08 Mar 2019 10:40:25 -0300</pubDate>
-        <lastBuildDate>Fri, 08 Mar 2019 10:40:26 -0300</lastBuildDate>
+        <pubDate>Thu, 14 Mar 2019 16:25:38 -0300</pubDate>
+        <lastBuildDate>Thu, 14 Mar 2019 16:25:38 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,6 +39,27 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Crônicas da Dungeon #2 – A base do roleplaying game</title>
+            <link>https://dungeon.gg/cronicas/s01e03</link>
+            <description><![CDATA[Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 14 Mar 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e03</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e03.m4a" length="12212602" type="audio/x-m4a"/>
+            <guid isPermaLink="false">8651CA54-7159-46DA-9CDF-46EE54627A3B</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Academia para Mestres e Aprendizes #1</itunes:subtitle>
+            <itunes:summary>Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.</itunes:summary>
+            <itunes:keywords>academia,mestres,aprendizes,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>6:16</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crônicas da Dungeon #2 – A base do roleplaying game</itunes:title>
+        </item>
         <item>
             <title>Crônicas da Dungeon #1 – Apresentação</title>
             <link>https://dungeon.gg/cronicas/s01e01</link>
