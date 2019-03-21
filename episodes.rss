@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Thu, 14 Mar 2019 16:25:38 -0300</pubDate>
-        <lastBuildDate>Thu, 14 Mar 2019 16:25:38 -0300</lastBuildDate>
+        <pubDate>Thu, 21 Mar 2019 20:18:00 -0300</pubDate>
+        <lastBuildDate>Thu, 21 Mar 2019 20:18:00 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,6 +39,27 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Crônicas da Dungeon #3 – Cenários Próprios</title>
+            <link>https://dungeon.gg/cronicas/s01e04</link>
+            <description><![CDATA[Todo mundo tem aquela vontade de criar seu mundo ou dar um "toque pessoal" em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 21 Mar 2019 20:16:29 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e04</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e04.m4a" length="60099826" type="audio/x-m4a"/>
+            <guid isPermaLink="false">5E1F6E58-CC27-475E-9A97-289B89DB474F</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Como, quando e por que criar sua própria campanha</itunes:subtitle>
+            <itunes:summary>Todo mundo tem aquela vontade de criar seu mundo ou dar um "toque pessoal" em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.</itunes:summary>
+            <itunes:keywords>cenários próprios,cenários,mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>1:01:48</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crônicas da Dungeon #3 – Cenários Próprios</itunes:title>
+        </item>
         <item>
             <title>Crônicas da Dungeon #2 – A base do roleplaying game</title>
             <link>https://dungeon.gg/cronicas/s01e03</link>
