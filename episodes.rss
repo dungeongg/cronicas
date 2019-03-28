@@ -6,14 +6,14 @@
         <description>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
 Temos os jogos e os blablablás, mas também muito mais! Entrevistas, storytelling, conteúdo nacional e todas as ideias mais nonsense da internet.
 Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</description>
-        <generator>Feeder 3 3.6.2(3180); Mac OS X Version 10.14.3 (Build 18D109) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.6.2(3180); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>pt-br</language>
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Thu, 21 Mar 2019 20:18:00 -0300</pubDate>
-        <lastBuildDate>Thu, 21 Mar 2019 20:18:00 -0300</lastBuildDate>
+        <pubDate>Thu, 28 Mar 2019 14:46:55 -0300</pubDate>
+        <lastBuildDate>Thu, 28 Mar 2019 14:46:56 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,6 +39,27 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Crônicas da Dungeon #4 – Mulheres jogam RPG?</title>
+            <link>https://dungeon.gg/cronicas/s01e05</link>
+            <description><![CDATA[<p>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!<br />Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances<br />Faça parte da melhor comunidade de RPG: https://dungeon.gg</p>]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 28 Mar 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e05</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e05.m4a" length="72553266" type="audio/x-m4a"/>
+            <guid isPermaLink="false">7A3D3634-8F31-436B-B303-60C4000983E5</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Porque é tão difícil encontrar mulheres nos jogos?</itunes:subtitle>
+            <itunes:summary>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaancesFaça parte da melhor comunidade de RPG: https://dungeon.gg</itunes:summary>
+            <itunes:keywords>mulheres,ancestrais,biblioteca,mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>1:14:37</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crônicas da Dungeon #4 – Mulheres jogam RPG?</itunes:title>
+        </item>
         <item>
             <title>Crônicas da Dungeon #3 – Cenários Próprios</title>
             <link>https://dungeon.gg/cronicas/s01e04</link>
