@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Thu, 28 Mar 2019 14:46:55 -0300</pubDate>
-        <lastBuildDate>Thu, 28 Mar 2019 14:46:56 -0300</lastBuildDate>
+        <pubDate>Fri, 29 Mar 2019 13:26:19 -0300</pubDate>
+        <lastBuildDate>Fri, 29 Mar 2019 13:26:19 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -42,19 +42,23 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
         <item>
             <title>Crônicas da Dungeon #4 – Mulheres jogam RPG?</title>
             <link>https://dungeon.gg/cronicas/s01e05</link>
-            <description><![CDATA[<p>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!<br />Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances<br />Faça parte da melhor comunidade de RPG: https://dungeon.gg</p>]]></description>
+            <description><![CDATA[<p>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
+<br />Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances
+<br />Faça parte da melhor comunidade de RPG: https://dungeon.gg</p>]]></description>
             <author>cronicas@dungeon.gg</author>
             <pubDate>Thu, 28 Mar 2019 00:00:00 -0300</pubDate>
             <comments>https://dungeon.gg/cronicas/s01e05</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e05.m4a" length="72553266" type="audio/x-m4a"/>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e05v2.m4a" length="50276953" type="audio/x-m4a"/>
             <guid isPermaLink="false">7A3D3634-8F31-436B-B303-60C4000983E5</guid>
             <itunes:author>dungeon.gg</itunes:author>
             <itunes:subtitle>Porque é tão difícil encontrar mulheres nos jogos?</itunes:subtitle>
-            <itunes:summary>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaancesFaça parte da melhor comunidade de RPG: https://dungeon.gg</itunes:summary>
+            <itunes:summary>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
+Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances
+Faça parte da melhor comunidade de RPG: https://dungeon.gg</itunes:summary>
             <itunes:keywords>mulheres,ancestrais,biblioteca,mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
             <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
             <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>1:14:37</itunes:duration>
+            <itunes:duration>1:08:34</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:episode>5</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
@@ -65,9 +69,9 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <link>https://dungeon.gg/cronicas/s01e04</link>
             <description><![CDATA[Todo mundo tem aquela vontade de criar seu mundo ou dar um "toque pessoal" em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.]]></description>
             <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 21 Mar 2019 20:16:29 -0300</pubDate>
+            <pubDate>Thu, 21 Mar 2019 00:00:00 -0300</pubDate>
             <comments>https://dungeon.gg/cronicas/s01e04</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e04.m4a" length="60099826" type="audio/x-m4a"/>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e04v2.m4a" length="45327181" type="audio/x-m4a"/>
             <guid isPermaLink="false">5E1F6E58-CC27-475E-9A97-289B89DB474F</guid>
             <itunes:author>dungeon.gg</itunes:author>
             <itunes:subtitle>Como, quando e por que criar sua própria campanha</itunes:subtitle>
@@ -88,7 +92,7 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <author>cronicas@dungeon.gg</author>
             <pubDate>Thu, 14 Mar 2019 00:00:00 -0300</pubDate>
             <comments>https://dungeon.gg/cronicas/s01e03</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e03.m4a" length="12212602" type="audio/x-m4a"/>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e03v2.m4a" length="4690465" type="audio/x-m4a"/>
             <guid isPermaLink="false">8651CA54-7159-46DA-9CDF-46EE54627A3B</guid>
             <itunes:author>dungeon.gg</itunes:author>
             <itunes:subtitle>Academia para Mestres e Aprendizes #1</itunes:subtitle>
@@ -103,6 +107,27 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:title>Crônicas da Dungeon #2 – A base do roleplaying game</itunes:title>
         </item>
         <item>
+            <title>Conto #1 – Força de Vontade</title>
+            <link>https://dungeon.gg/cronicas/s01e02</link>
+            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e02</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e02v2.m4a" length="12020223" type="audio/x-m4a"/>
+            <guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Os últimos momentos de um cavaleiro no campo de batalha.</itunes:subtitle>
+            <itunes:summary>Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</itunes:summary>
+            <itunes:keywords>força,vontade,conto,batalha,guerra,cavaleiro,goblins</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>6:10</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Conto #1 – Força de Vontade</itunes:title>
+        </item>
+        <item>
             <title>Crônicas da Dungeon #1 – Apresentação</title>
             <link>https://dungeon.gg/cronicas/s01e01</link>
             <description><![CDATA[<p>Quem somos? De onde viemos? O que comemos?
@@ -110,7 +135,7 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <author>cronicas@dungeon.gg</author>
             <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
             <comments>https://dungeon.gg/cronicas/s01e01</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/season01episode01.m4a" length="29510367" type="audio/x-m4a"/>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e01v2.m4a" length="11242199" type="audio/x-m4a"/>
             <guid isPermaLink="false">E1577F72-012D-4A19-A302-991623FDF495</guid>
             <itunes:author>dungeon.gg</itunes:author>
             <itunes:subtitle>Quem somos? De onde viemos? O que comemos?</itunes:subtitle>
@@ -124,27 +149,6 @@ Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio 
             <itunes:episode>1</itunes:episode>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:title>Crônicas da Dungeon #1 – Apresentação</itunes:title>
-        </item>
-        <item>
-            <title>Conto #1 – Força de Vontade</title>
-            <link>https://dungeon.gg/cronicas/s01e02</link>
-            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e02</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/season01episode02.m4a" length="12020223" type="audio/x-m4a"/>
-            <guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Os últimos momentos de um cavaleiro no campo de batalha.</itunes:subtitle>
-            <itunes:summary>Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</itunes:summary>
-            <itunes:keywords>força,vontade,conto,batalha,guerra,cavaleiro,goblins</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>6:10</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Conto #1 – Força de Vontade</itunes:title>
         </item>
     </channel>
 </rss>
