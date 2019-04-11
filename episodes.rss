@@ -12,14 +12,14 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Fri, 29 Mar 2019 13:26:19 -0300</pubDate>
-        <lastBuildDate>Fri, 29 Mar 2019 13:26:19 -0300</lastBuildDate>
+        <pubDate>Thu, 11 Apr 2019 16:23:20 -0300</pubDate>
+        <lastBuildDate>Thu, 11 Apr 2019 16:23:21 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
             <link>https://dungeon.gg/cronicas</link>
         </image>
-        <atom:link href="https://dungeon.gg/cronicas" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://dungeon.gg/cronicas.rss" rel="self" type="application/rss+xml"/>
         <itunes:author>dungeon.gg</itunes:author>
         <itunes:subtitle>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.</itunes:subtitle>
         <itunes:summary>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
@@ -39,6 +39,27 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Crônicas da Dungeon #5 – Além do Medieval</title>
+            <link>https://dungeon.gg/cronicas/s01e06</link>
+            <description><![CDATA[RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 11 Apr 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e06</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e06.m4a" length="32634424" type="audio/x-m4a"/>
+            <guid isPermaLink="false">D017025E-7296-49FF-A46D-3F59B69D543D</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Mil e uma (ou só algumas) ideias de cenários para jogar</itunes:subtitle>
+            <itunes:summary>RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.</itunes:summary>
+            <itunes:keywords>mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>44:27</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crônicas da Dungeon #5 – Além do Medieval</itunes:title>
+        </item>
         <item>
             <title>Crônicas da Dungeon #4 – Mulheres jogam RPG?</title>
             <link>https://dungeon.gg/cronicas/s01e05</link>
