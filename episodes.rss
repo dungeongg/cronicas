@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Thu, 11 Apr 2019 16:23:20 -0300</pubDate>
-        <lastBuildDate>Thu, 11 Apr 2019 16:23:21 -0300</lastBuildDate>
+        <pubDate>Thu, 18 Apr 2019 16:52:59 -0300</pubDate>
+        <lastBuildDate>Thu, 18 Apr 2019 16:53:00 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,6 +39,31 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Crônicas da Dungeon #6 – Guia de Personagens para Jogadores</title>
+            <link>https://dungeon.gg/cronicas/s01e07</link>
+            <description><![CDATA[<p>Como você cria suas personagens?
+<br />Nós contamos nossos métodos, erros e acertos quando vamos interpretar uma nova persona.
+<br />Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!</p>]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 18 Apr 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e07</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e07.m4a" length="46130863" type="audio/x-m4a"/>
+            <guid isPermaLink="false">A6F62017-DCA0-408A-9B85-6A486F61C21E</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>Dicas, truques e desserviços para criar sua personagem</itunes:subtitle>
+            <itunes:summary>Como você cria suas personagens?
+Nós contamos nossos métodos, erros e acertos quando vamos interpretar uma nova persona.
+Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!</itunes:summary>
+            <itunes:keywords>mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons,guia,criar,personagens,criação personagem,interpretar</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>1:02:54</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Crônicas da Dungeon #6 – Guia de Personagens</itunes:title>
+        </item>
         <item>
             <title>Crônicas da Dungeon #5 – Além do Medieval</title>
             <link>https://dungeon.gg/cronicas/s01e06</link>
