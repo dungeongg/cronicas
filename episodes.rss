@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Thu, 18 Apr 2019 16:52:59 -0300</pubDate>
-        <lastBuildDate>Thu, 18 Apr 2019 16:53:00 -0300</lastBuildDate>
+        <pubDate>Sat, 27 Apr 2019 03:38:08 -0300</pubDate>
+        <lastBuildDate>Sat, 27 Apr 2019 03:38:09 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -39,6 +39,29 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:category text="Hobbies"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Conto #2 – Diário de Viagem – Parte I</title>
+            <link>https://dungeon.gg/cronicas/s01e08</link>
+            <description><![CDATA[<p>Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King's Thunder de D&D 5ª Edição.
+<br />Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG https://dungeon.gg</p>]]></description>
+            <author>cronicas@dungeon.gg</author>
+            <pubDate>Thu, 25 Apr 2019 00:00:00 -0300</pubDate>
+            <comments>https://dungeon.gg/cronicas/s01e08</comments>
+            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e08.m4a" length="40085016" type="audio/x-m4a"/>
+            <guid isPermaLink="false">73F5B82B-820B-423C-AB75-940A2E84428D</guid>
+            <itunes:author>dungeon.gg</itunes:author>
+            <itunes:subtitle>A Sociedade do Norte</itunes:subtitle>
+            <itunes:summary>Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King's Thunder de D&amp;D 5ª Edição.
+Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG https://dungeon.gg</itunes:summary>
+            <itunes:keywords>conto,batalha,guerra,cavaleiro,skt,storm king's thunder,áudio-drama,drama,diário,viagem,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons,interpretar</itunes:keywords>
+            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>20:41</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:title>Conto #2 – Diário de Viagem – Parte I</itunes:title>
+        </item>
         <item>
             <title>Crônicas da Dungeon #6 – Guia de Personagens para Jogadores</title>
             <link>https://dungeon.gg/cronicas/s01e07</link>
