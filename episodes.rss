@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Sat, 27 Apr 2019 03:38:08 -0300</pubDate>
-        <lastBuildDate>Sat, 27 Apr 2019 03:38:09 -0300</lastBuildDate>
+        <pubDate>Wed, 01 May 2019 19:47:13 -0300</pubDate>
+        <lastBuildDate>Wed, 01 May 2019 19:47:14 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -32,6 +32,7 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:name>Dungeon Co.</itunes:name>
             <itunes:email>cronicas@dungeon.gg</itunes:email>
         </itunes:owner>
+        <itunes:new-feed-url>https://anchor.fm/s/b0c02b4/podcast/rss</itunes:new-feed-url>
         <itunes:block>no</itunes:block>
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Other Games"/>
