@@ -12,8 +12,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <copyright>2019 Dungeon Co.</copyright>
         <managingEditor>cronicas@dungeon.gg</managingEditor>
         <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Sat, 27 Apr 2019 03:38:08 -0300</pubDate>
-        <lastBuildDate>Sat, 27 Apr 2019 03:38:09 -0300</lastBuildDate>
+        <pubDate>Wed, 01 May 2019 20:34:10 -0300</pubDate>
+        <lastBuildDate>Wed, 01 May 2019 20:34:10 -0300</lastBuildDate>
         <image>
             <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
             <title>Crônicas da Dungeon</title>
@@ -24,7 +24,7 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</d
         <itunes:subtitle>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.</itunes:subtitle>
         <itunes:summary>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
 Temos os jogos e os blablablás, mas também muito mais! Entrevistas, storytelling, conteúdo nacional e todas as ideias mais nonsense da internet.
-Participe da melhor comunidade brasileira de RPG!</itunes:summary>
+Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</itunes:summary>
         <itunes:keywords>dungeon,rpg,jogo,nerd,storytelling,historia,conto,contos,bate papo,d20,dragao,dragons,audio-drama,drama,dungeons,d&amp;d,dnd,bate-papo,papo,dungeon.gg</itunes:keywords>
         <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
         <itunes:explicit>clean</itunes:explicit>
@@ -32,6 +32,7 @@ Participe da melhor comunidade brasileira de RPG!</itunes:summary>
             <itunes:name>Dungeon Co.</itunes:name>
             <itunes:email>cronicas@dungeon.gg</itunes:email>
         </itunes:owner>
+        <itunes:new-feed-url>https://anchor.fm/s/b0c02b4/podcast/rss</itunes:new-feed-url>
         <itunes:block>no</itunes:block>
         <itunes:category text="Games &amp; Hobbies">
             <itunes:category text="Other Games"/>
