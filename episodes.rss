@@ -1,224 +1,272 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-    <channel>
-        <title>Crônicas da Dungeon</title>
-        <link>https://dungeon.gg/cronicas</link>
-        <description>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Crônicas da Dungeon]]></title>
+		<description><![CDATA[Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
 Temos os jogos e os blablablás, mas também muito mais! Entrevistas, storytelling, conteúdo nacional e todas as ideias mais nonsense da internet.
-Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</description>
-        <generator>Feeder 3 3.6.2(3180); Mac OS X Version 10.14.4 (Build 18E226) http://reinventedsoftware.com/feeder/</generator>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <language>pt-br</language>
-        <copyright>2019 Dungeon Co.</copyright>
-        <managingEditor>cronicas@dungeon.gg</managingEditor>
-        <webMaster>cronicas@dungeon.gg</webMaster>
-        <pubDate>Wed, 01 May 2019 20:34:10 -0300</pubDate>
-        <lastBuildDate>Wed, 01 May 2019 20:34:10 -0300</lastBuildDate>
-        <image>
-            <url>https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png</url>
-            <title>Crônicas da Dungeon</title>
-            <link>https://dungeon.gg/cronicas</link>
-        </image>
-        <atom:link href="https://dungeon.gg/cronicas.rss" rel="self" type="application/rss+xml"/>
-        <itunes:author>dungeon.gg</itunes:author>
-        <itunes:subtitle>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.</itunes:subtitle>
-        <itunes:summary>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
+Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!]]></description>
+		<link>https://anchor.fm/dungeongg</link>
+		<image>
+			<url>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg</url>
+			<title>Crônicas da Dungeon</title>
+			<link>https://anchor.fm/dungeongg</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 16 May 2019 14:30:12 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/b0c02b4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[dungeon.gg]]></copyright>
+		<language><![CDATA[pt-br]]></language>
+		<itunes:author>dungeon.gg</itunes:author>
+		<itunes:summary>Crônicas da Dungeon é um podcast que aborda RPG e o universo geek de uma maneira diferente.
 Temos os jogos e os blablablás, mas também muito mais! Entrevistas, storytelling, conteúdo nacional e todas as ideias mais nonsense da internet.
 Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</itunes:summary>
-        <itunes:keywords>dungeon,rpg,jogo,nerd,storytelling,historia,conto,contos,bate papo,d20,dragao,dragons,audio-drama,drama,dungeons,d&amp;d,dnd,bate-papo,papo,dungeon.gg</itunes:keywords>
-        <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-        <itunes:explicit>clean</itunes:explicit>
-        <itunes:owner>
-            <itunes:name>Dungeon Co.</itunes:name>
-            <itunes:email>cronicas@dungeon.gg</itunes:email>
-        </itunes:owner>
-        <itunes:new-feed-url>https://anchor.fm/s/b0c02b4/podcast/rss</itunes:new-feed-url>
-        <itunes:block>no</itunes:block>
-        <itunes:category text="Games &amp; Hobbies">
-            <itunes:category text="Other Games"/>
-            <itunes:category text="Video Games"/>
-            <itunes:category text="Hobbies"/>
-        </itunes:category>
-        <itunes:type>episodic</itunes:type>
-        <item>
-            <title>Conto #2 – Diário de Viagem – Parte I</title>
-            <link>https://dungeon.gg/cronicas/s01e08</link>
-            <description><![CDATA[<p>Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King's Thunder de D&D 5ª Edição.
-<br />Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG https://dungeon.gg</p>]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 25 Apr 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e08</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e08.m4a" length="40085016" type="audio/x-m4a"/>
-            <guid isPermaLink="false">73F5B82B-820B-423C-AB75-940A2E84428D</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>A Sociedade do Norte</itunes:subtitle>
-            <itunes:summary>Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King's Thunder de D&amp;D 5ª Edição.
-Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG https://dungeon.gg</itunes:summary>
-            <itunes:keywords>conto,batalha,guerra,cavaleiro,skt,storm king's thunder,áudio-drama,drama,diário,viagem,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons,interpretar</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>20:41</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>8</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Conto #2 – Diário de Viagem – Parte I</itunes:title>
-        </item>
-        <item>
-            <title>Crônicas da Dungeon #6 – Guia de Personagens para Jogadores</title>
-            <link>https://dungeon.gg/cronicas/s01e07</link>
-            <description><![CDATA[<p>Como você cria suas personagens?
-<br />Nós contamos nossos métodos, erros e acertos quando vamos interpretar uma nova persona.
-<br />Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!</p>]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 18 Apr 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e07</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e07.m4a" length="46130863" type="audio/x-m4a"/>
-            <guid isPermaLink="false">A6F62017-DCA0-408A-9B85-6A486F61C21E</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Dicas, truques e desserviços para criar sua personagem</itunes:subtitle>
-            <itunes:summary>Como você cria suas personagens?
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>dungeon.gg</itunes:name>
+			<itunes:email>cronicas@dungeon.gg</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Games &amp; Hobbies">
+			<itunes:category text="Other Games"/>
+		</itunes:category>
+		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #7 – Combate Imersivo – Parte I]]></title>
+			<description><![CDATA[<p>Como fazer um combate interessante e memorável? Ele precisa ser difícil? Precisa ter pilhagem? Como narrar um combate?<br>
+Não existem respostas certas, mas nós tentamos algumas dicas nesse episódio.&nbsp;</p>
+<p>Siga a Dungeon nas redes sociais e acessem nosso site:</p>
+<p><a href="https://dungeon.gg">https://dungeon.gg</a></p>
+<p>E faça parte da melhor comunidade brasileira de RPG</p>
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-7--Combate-Imersivo--Parte-I-e3vt8c</link>
+			<guid isPermaLink="false">a2e1308d-2b88-7630-6d1e-4bd092ee1054</guid>
+			<pubDate>Thu, 09 May 2019 16:47:52 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3191500/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-9%2F14484578-48000-2-d84d52c16080c.m4a" length="30426212" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Como fazer um combate interessante e memorável? Ele precisa ser difícil? Precisa ter pilhagem? Como narrar um combate?&lt;br&gt;
+Não existem respostas certas, mas nós tentamos algumas dicas nesse episódio.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Siga a Dungeon nas redes sociais e acessem nosso site:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dungeon.gg&quot;&gt;https://dungeon.gg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;E faça parte da melhor comunidade brasileira de RPG&lt;/p&gt;
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2489</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Conto #2 – Diário de Viagem – Parte I]]></title>
+			<description><![CDATA[Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King's Thunder de D&D 5ª Edição.
+Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG https://dungeon.gg
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Conto-2--Dirio-de-Viagem--Parte-I-e3tdn2</link>
+			<guid isPermaLink="false">73F5B82B-820B-423C-AB75-940A2E84428D</guid>
+			<pubDate>Thu, 25 Apr 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950227-48000-2-41d202667146b.m4a" length="40085016" type="audio/x-m4a"/>
+			<itunes:summary>Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King&apos;s Thunder de D&amp;D 5ª Edição.
+Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG https://dungeon.gg
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1241</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #6 – Guia de Personagens para Jogadores]]></title>
+			<description><![CDATA[Como você cria suas personagens?
 Nós contamos nossos métodos, erros e acertos quando vamos interpretar uma nova persona.
-Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!</itunes:summary>
-            <itunes:keywords>mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons,guia,criar,personagens,criação personagem,interpretar</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>yes</itunes:explicit>
-            <itunes:duration>1:02:54</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>7</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Crônicas da Dungeon #6 – Guia de Personagens</itunes:title>
-        </item>
-        <item>
-            <title>Crônicas da Dungeon #5 – Além do Medieval</title>
-            <link>https://dungeon.gg/cronicas/s01e06</link>
-            <description><![CDATA[RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 11 Apr 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e06</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e06.m4a" length="32634424" type="audio/x-m4a"/>
-            <guid isPermaLink="false">D017025E-7296-49FF-A46D-3F59B69D543D</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Mil e uma (ou só algumas) ideias de cenários para jogar</itunes:subtitle>
-            <itunes:summary>RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.</itunes:summary>
-            <itunes:keywords>mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>44:27</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>6</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Crônicas da Dungeon #5 – Além do Medieval</itunes:title>
-        </item>
-        <item>
-            <title>Crônicas da Dungeon #4 – Mulheres jogam RPG?</title>
-            <link>https://dungeon.gg/cronicas/s01e05</link>
-            <description><![CDATA[<p>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
-<br />Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances
-<br />Faça parte da melhor comunidade de RPG: https://dungeon.gg</p>]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 28 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e05</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e05v2.m4a" length="50276953" type="audio/x-m4a"/>
-            <guid isPermaLink="false">7A3D3634-8F31-436B-B303-60C4000983E5</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Porque é tão difícil encontrar mulheres nos jogos?</itunes:subtitle>
-            <itunes:summary>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
+Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-6--Guia-de-Personagens-para-Jogadores-e3tdn3</link>
+			<guid isPermaLink="false">A6F62017-DCA0-408A-9B85-6A486F61C21E</guid>
+			<pubDate>Thu, 18 Apr 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950228-48000-2-1d7c0f83b45e9.m4a" length="46130863" type="audio/x-m4a"/>
+			<itunes:summary>Como você cria suas personagens?
+Nós contamos nossos métodos, erros e acertos quando vamos interpretar uma nova persona.
+Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>Yes</itunes:explicit>
+			<itunes:duration>3774</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #5 – Além do Medieval]]></title>
+			<description><![CDATA[RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-5--Alm-do-Medieval-e3tdn4</link>
+			<guid isPermaLink="false">D017025E-7296-49FF-A46D-3F59B69D543D</guid>
+			<pubDate>Thu, 11 Apr 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950229-48000-2-4e05423882b17.m4a" length="32634424" type="audio/x-m4a"/>
+			<itunes:summary>RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2667</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #4 – Mulheres jogam RPG?]]></title>
+			<description><![CDATA[A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
 Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances
-Faça parte da melhor comunidade de RPG: https://dungeon.gg</itunes:summary>
-            <itunes:keywords>mulheres,ancestrais,biblioteca,mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>1:08:34</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>5</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Crônicas da Dungeon #4 – Mulheres jogam RPG?</itunes:title>
-        </item>
-        <item>
-            <title>Crônicas da Dungeon #3 – Cenários Próprios</title>
-            <link>https://dungeon.gg/cronicas/s01e04</link>
-            <description><![CDATA[Todo mundo tem aquela vontade de criar seu mundo ou dar um "toque pessoal" em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 21 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e04</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e04v2.m4a" length="45327181" type="audio/x-m4a"/>
-            <guid isPermaLink="false">5E1F6E58-CC27-475E-9A97-289B89DB474F</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Como, quando e por que criar sua própria campanha</itunes:subtitle>
-            <itunes:summary>Todo mundo tem aquela vontade de criar seu mundo ou dar um "toque pessoal" em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.</itunes:summary>
-            <itunes:keywords>cenários próprios,cenários,mestres,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>1:01:48</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>4</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Crônicas da Dungeon #3 – Cenários Próprios</itunes:title>
-        </item>
-        <item>
-            <title>Crônicas da Dungeon #2 – A base do roleplaying game</title>
-            <link>https://dungeon.gg/cronicas/s01e03</link>
-            <description><![CDATA[Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 14 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e03</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e03v2.m4a" length="4690465" type="audio/x-m4a"/>
-            <guid isPermaLink="false">8651CA54-7159-46DA-9CDF-46EE54627A3B</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Academia para Mestres e Aprendizes #1</itunes:subtitle>
-            <itunes:summary>Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.</itunes:summary>
-            <itunes:keywords>academia,mestres,aprendizes,jogar rpg,mestrar rpg,dungeon,rpg,jogo,nerd,storytelling,d20,dragao,dragons</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>6:16</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>3</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Crônicas da Dungeon #2 – A base do roleplaying game</itunes:title>
-        </item>
-        <item>
-            <title>Conto #1 – Força de Vontade</title>
-            <link>https://dungeon.gg/cronicas/s01e02</link>
-            <description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e02</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e02v2.m4a" length="12020223" type="audio/x-m4a"/>
-            <guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Os últimos momentos de um cavaleiro no campo de batalha.</itunes:subtitle>
-            <itunes:summary>Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</itunes:summary>
-            <itunes:keywords>força,vontade,conto,batalha,guerra,cavaleiro,goblins</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>6:10</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>2</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Conto #1 – Força de Vontade</itunes:title>
-        </item>
-        <item>
-            <title>Crônicas da Dungeon #1 – Apresentação</title>
-            <link>https://dungeon.gg/cronicas/s01e01</link>
-            <description><![CDATA[<p>Quem somos? De onde viemos? O que comemos?
-<br />Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio de piadas ruins. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</p>]]></description>
-            <author>cronicas@dungeon.gg</author>
-            <pubDate>Thu, 07 Mar 2019 00:00:00 -0300</pubDate>
-            <comments>https://dungeon.gg/cronicas/s01e01</comments>
-            <enclosure url="https://storage.googleapis.com/dungeon.gg/cronicas/s01e01v2.m4a" length="11242199" type="audio/x-m4a"/>
-            <guid isPermaLink="false">E1577F72-012D-4A19-A302-991623FDF495</guid>
-            <itunes:author>dungeon.gg</itunes:author>
-            <itunes:subtitle>Quem somos? De onde viemos? O que comemos?</itunes:subtitle>
-            <itunes:summary>Quem somos? De onde viemos? O que comemos?
-Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio de piadas ruins. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.</itunes:summary>
-            <itunes:keywords>dungeon,rpg,jogo,nerd,storytelling,historia,conto,contos,bate papo,d20,dragao,dragons</itunes:keywords>
-            <itunes:image href="https://storage.googleapis.com/dungeon.gg/logos/cronicas_2x.png"/>
-            <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>15:13</itunes:duration>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:title>Crônicas da Dungeon #1 – Apresentação</itunes:title>
-        </item>
-    </channel>
+Faça parte da melhor comunidade de RPG: https://dungeon.gg
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-4--Mulheres-jogam-RPG-e3tdn5</link>
+			<guid isPermaLink="false">7A3D3634-8F31-436B-B303-60C4000983E5</guid>
+			<pubDate>Thu, 28 Mar 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950230-48000-2-327df891bee43.m4a" length="50276953" type="audio/x-m4a"/>
+			<itunes:summary>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
+Acompanhe a Biblioteca das Ancestrais: https://dungeon.gg/bibliotecaances
+Faça parte da melhor comunidade de RPG: https://dungeon.gg
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4114</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #3 – Cenários Próprios]]></title>
+			<description><![CDATA[Todo mundo tem aquela vontade de criar seu mundo ou dar um "toque pessoal" em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-3--Cenrios-Prprios-e3tdn6</link>
+			<guid isPermaLink="false">5E1F6E58-CC27-475E-9A97-289B89DB474F</guid>
+			<pubDate>Thu, 21 Mar 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950231-48000-2-a31b9f84a21ea.m4a" length="45327181" type="audio/x-m4a"/>
+			<itunes:summary>Todo mundo tem aquela vontade de criar seu mundo ou dar um &quot;toque pessoal&quot; em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3708</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #2 – A base do roleplaying game]]></title>
+			<description><![CDATA[Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-2--A-base-do-roleplaying-game-e3tdn8</link>
+			<guid isPermaLink="false">8651CA54-7159-46DA-9CDF-46EE54627A3B</guid>
+			<pubDate>Thu, 14 Mar 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950232-48000-2-3bd0c8170dd87.m4a" length="4690465" type="audio/x-m4a"/>
+			<itunes:summary>Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>376</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #1 – Apresentação]]></title>
+			<description><![CDATA[Quem somos? De onde viemos? O que comemos?
+Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio de piadas ruins. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-1--Apresentao-e3tdn9</link>
+			<guid isPermaLink="false">E1577F72-012D-4A19-A302-991623FDF495</guid>
+			<pubDate>Thu, 07 Mar 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950234-48000-2-0dc4a79cec3a1.m4a" length="11242199" type="audio/x-m4a"/>
+			<itunes:summary>Quem somos? De onde viemos? O que comemos?
+Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio de piadas ruins. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>913</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Conto #1 – Força de Vontade]]></title>
+			<description><![CDATA[Em "Força de Vontade" você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.
+
+Send in a voice message:
+
+<a href="https://anchor.fm/dungeongg/message">https://anchor.fm/dungeongg/message</a>
+
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Conto-1--Fora-de-Vontade-e3tdn7</link>
+			<guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
+			<pubDate>Thu, 07 Mar 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950233-48000-2-eaa149d99bd86.m4a" length="12020223" type="audio/x-m4a"/>
+			<itunes:summary>Em &quot;Força de Vontade&quot; você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.
+
+Send in a voice message:
+
+&lt;a href=&quot;https://anchor.fm/dungeongg/message&quot;&gt;https://anchor.fm/dungeongg/message&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>370</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		</item>
+	</channel>
 </rss>
