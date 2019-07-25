@@ -11,8 +11,9 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!]]>
 			<link>https://anchor.fm/dungeongg</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 11 Jul 2019 18:49:30 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jul 2019 15:39:20 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/b0c02b4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[dungeon.gg]]></author>
 		<copyright><![CDATA[dungeon.gg]]></copyright>
 		<language><![CDATA[pt-br]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
@@ -29,7 +30,29 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</i
 		<itunes:category text="Games &amp; Hobbies">
 			<itunes:category text="Other Games"/>
 		</itunes:category>
-		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #12 – Criando uma cidade]]></title>
+			<description><![CDATA[<p>Mestres novatos que criam cenários próprios costumam ter dificuldades para criar uma cidade convincente, coesa e que muda junto com os jogadores. Eu tive e ainda tenho, mas nada temam! El Rey del Paraguay está aqui para nos ajudar!</p>
+<p>Acesse <a href="https://dungeon.gg">dungeon.gg</a> e faça parte da melhor comunidade de RPG.</p>
+<p>Curta, comente e siga-nos nas redes sociais.</p>
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-12--Criando-uma-cidade-e4nt8b</link>
+			<guid isPermaLink="false">e4a1bd73-fb6e-94ee-e26b-7bb0ef5cff1d</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
+			<pubDate>Thu, 25 Jul 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3977931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-25%2F19548670-48000-2-27c21e0db658b.mp3" length="40603084" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Mestres novatos que criam cenários próprios costumam ter dificuldades para criar uma cidade convincente, coesa e que muda junto com os jogadores. Eu tive e ainda tenho, mas nada temam! El Rey del Paraguay está aqui para nos ajudar!&lt;/p&gt;
+&lt;p&gt;Acesse &lt;a href=&quot;https://dungeon.gg&quot;&gt;dungeon.gg&lt;/a&gt; e faça parte da melhor comunidade de RPG.&lt;/p&gt;
+&lt;p&gt;Curta, comente e siga-nos nas redes sociais.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2533</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Conto #3 – Diário de Viagem – Parte II]]></title>
 			<description><![CDATA[<p>Segunda parte que narra as aventuras da Sociedade do Norte pela Costa da Espada. Acompanhe Manto da Selva e cia. em mais um conto trazido pela <a href="https://dungeon.gg">dungeon.gg</a></p>
@@ -37,6 +60,7 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</i
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Conto-3--Dirio-de-Viagem--Parte-II-e4jil4</link>
 			<guid isPermaLink="false">a68974b3-66c2-34a2-1af6-005815192e76</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 11 Jul 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3836004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-11%2F18610788-44100-2-926e8d414af39.mp3" length="22330350" type="audio/mpeg"/>
 			<itunes:summary>&lt;p&gt;Segunda parte que narra as aventuras da Sociedade do Norte pela Costa da Espada. Acompanhe Manto da Selva e cia. em mais um conto trazido pela &lt;a href=&quot;https://dungeon.gg&quot;&gt;dungeon.gg&lt;/a&gt;&lt;/p&gt;
@@ -55,6 +79,7 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</i
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-11--Campanhas-Coletivas-e4fm8u</link>
 			<guid isPermaLink="false">0dfd46e9-7c40-925d-2718-b9841f1e1eb1</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 27 Jun 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3708638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-28%2F17801924-48000-2-c40536014e96f.m4a" length="23757843" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Já parou para pensar como seria interessante se as suas escolhas na sua campanha pudessem afetar a de outro jogador? Já parou para pensar sobre o potencial de um mesmo mundo compartilhado por vários mestres e jogadores? Pois é. Neste episódio, discutimos sobre este potencial. Como diz o Mr. Peanutbutter, &quot;What is this!? A crossover episode!?&quot;&lt;/p&gt;
@@ -75,6 +100,7 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</i
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-10--RPG-de-mesa-online-e4b5pp</link>
 			<guid isPermaLink="false">5c79e8cd-8743-8ddb-0725-5aaddda5eb28</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 13 Jun 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3560697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-13%2F16941831-48000-2-8c97963689f9d.m4a" length="23519791" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Sim, contraditório, mas é basicamente a história de qualquer comunidade de RPG online hoje. Tempo, compromissos, amigos e dinheiro também. As vezes é difícil ter todos ao mesmo tempo pra jogar.&lt;/p&gt;
@@ -102,6 +128,7 @@ Acesse <a href="https://dungeon.gg">dungeon.gg</a> e faça parte da melhor comun
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-9--Viles-e46mr9</link>
 			<guid isPermaLink="false">550b6f8d-accc-0a80-71b2-9dcf9eb64310</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 30 May 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3414313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-30%2F16173134-48000-2-e26c6ba36a72c.m4a" length="19676351" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;MUAHAHA! Ninguém pode me impedir agora!&lt;br&gt;
@@ -137,6 +164,7 @@ Thalles Braga<br>
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-8--Metagame--Powergaming-e-Roleplay-e44gb3</link>
 			<guid isPermaLink="false">18ef69a1-5ed1-d65c-96aa-a685dbd64e6c</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 23 May 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3342115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-23%2F15766470-48000-2-552306a8e79cc.m4a" length="20571843" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;O que é, quem faz, como evitar? Precisa evitar?&lt;br&gt;
@@ -176,6 +204,7 @@ Talyssa Taisses – Gatita, a elemental do fogo feiticeira</p>
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Mesa-1--O-Penico-da-Sabedoria-e423ps</link>
 			<guid isPermaLink="false">f29ca98d-1a0b-b469-443e-49f1b5d3621e</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 16 May 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3263740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-16%2F15038552-48000-2-9f4bbfa12df9c.m4a" length="119696344" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;A terra de OOO está em perigo mais uma vez. E ela não poderia contar com heróis piores...&lt;br&gt;
@@ -208,6 +237,7 @@ Não existem respostas certas, mas nós tentamos algumas dicas nesse episódio.&
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-7--Combate-Imersivo--Parte-I-e3vt8c</link>
 			<guid isPermaLink="false">a2e1308d-2b88-7630-6d1e-4bd092ee1054</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 09 May 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3191500/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-9%2F14484578-48000-2-d84d52c16080c.m4a" length="30426212" type="audio/x-m4a"/>
 			<itunes:summary>&lt;p&gt;Como fazer um combate interessante e memorável? Ele precisa ser difícil? Precisa ter pilhagem? Como narrar um combate?&lt;br&gt;
@@ -230,6 +260,7 @@ Acesse nosso site e faça parte também da melhor comunidade brasileira de RPG h
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Conto-2--Dirio-de-Viagem--Parte-I-e3tdn2</link>
 			<guid isPermaLink="false">73F5B82B-820B-423C-AB75-940A2E84428D</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 25 Apr 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950227-48000-2-41d202667146b.m4a" length="40085016" type="audio/x-m4a"/>
 			<itunes:summary>Acompanhe o início da viagem de Manto da Selva para derrotar os Gigantes que destroem a Costa da Espada. Spoilers da campanha de Storm King&apos;s Thunder de D&amp;D 5ª Edição.
@@ -250,6 +281,7 @@ Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-6--Guia-de-Personagens-para-Jogadores-e3tdn3</link>
 			<guid isPermaLink="false">A6F62017-DCA0-408A-9B85-6A486F61C21E</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 18 Apr 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950228-48000-2-1d7c0f83b45e9.m4a" length="46130863" type="audio/x-m4a"/>
 			<itunes:summary>Como você cria suas personagens?
@@ -269,6 +301,7 @@ Muito jabá e muita história engraçada nesse episódio. Deixa aquele like!
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-5--Alm-do-Medieval-e3tdn4</link>
 			<guid isPermaLink="false">D017025E-7296-49FF-A46D-3F59B69D543D</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 11 Apr 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950229-48000-2-4e05423882b17.m4a" length="32634424" type="audio/x-m4a"/>
 			<itunes:summary>RPG não é só fantasia medieval! Neste episódio de Crônicas da Dungeon Casé, Salgado e Thalles damos alguns exemplos e contamos experiências com cenários e sistemas que fogem do medieval tradicional.
@@ -288,6 +321,7 @@ Faça parte da melhor comunidade de RPG: https://dungeon.gg
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-4--Mulheres-jogam-RPG-e3tdn5</link>
 			<guid isPermaLink="false">7A3D3634-8F31-436B-B303-60C4000983E5</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 28 Mar 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950230-48000-2-327df891bee43.m4a" length="50276953" type="audio/x-m4a"/>
 			<itunes:summary>A Biblioteca das Ancestrais se junta a nós para falar sobre assédio, agressão e espaço seguro. E de Cavaleiros do Zodíaco, afinal, porque não?!
@@ -307,6 +341,7 @@ Faça parte da melhor comunidade de RPG: https://dungeon.gg
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-3--Cenrios-Prprios-e3tdn6</link>
 			<guid isPermaLink="false">5E1F6E58-CC27-475E-9A97-289B89DB474F</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 21 Mar 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950231-48000-2-a31b9f84a21ea.m4a" length="45327181" type="audio/x-m4a"/>
 			<itunes:summary>Todo mundo tem aquela vontade de criar seu mundo ou dar um &quot;toque pessoal&quot; em algum já famoso. Neste episódio, trocamos experiências de como foi criar nossas mesas personalizadas, desse jogo tão livre e tão cheio de regras que é o RPG.
@@ -324,6 +359,7 @@ Faça parte da melhor comunidade de RPG: https://dungeon.gg
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-2--A-base-do-roleplaying-game-e3tdn8</link>
 			<guid isPermaLink="false">8651CA54-7159-46DA-9CDF-46EE54627A3B</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 14 Mar 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950232-48000-2-3bd0c8170dd87.m4a" length="4690465" type="audio/x-m4a"/>
 			<itunes:summary>Neste primeiro episódio da série Academia para Mestres e Aprendizes, abordaremos alguns temas mais básicos do RPG. Você acompanhará uma coletânea de dicas para construir suas campanhas, cenários e jogos. Se inscreva no site https://dungeon.gg/ e faça parte da melhor comunidade brasileira de RPG.
@@ -342,6 +378,7 @@ Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio 
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-1--Apresentao-e3tdn9</link>
 			<guid isPermaLink="false">E1577F72-012D-4A19-A302-991623FDF495</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 07 Mar 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950234-48000-2-0dc4a79cec3a1.m4a" length="11242199" type="audio/x-m4a"/>
 			<itunes:summary>Quem somos? De onde viemos? O que comemos?
@@ -360,6 +397,7 @@ Tentamos explicar o conceito da nossa comunidade em um bate-papo maluco e cheio 
 ]]></description>
 			<link>https://anchor.fm/dungeongg/episodes/Conto-1--Fora-de-Vontade-e3tdn7</link>
 			<guid isPermaLink="false">E0C8E4FD-29CA-4019-84FE-DFA379893681</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
 			<pubDate>Thu, 07 Mar 2019 03:00:00 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/3110055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-1%2F13950233-48000-2-eaa149d99bd86.m4a" length="12020223" type="audio/x-m4a"/>
 			<itunes:summary>Em &quot;Força de Vontade&quot; você vai acompanhar os últimos momentos de um cavaleiro no campo de batalha. A história é apresentada no formato de áudio drama, onde é contada sem qualquer recurso visual. Ouça e nos diga o que achou nos comentários ou em nosso site: https://dungeon.gg/cronicas.
