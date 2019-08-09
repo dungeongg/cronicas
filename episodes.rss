@@ -11,8 +11,8 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!]]>
 			<link>https://anchor.fm/dungeongg</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 25 Jul 2019 15:39:20 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/b0c02b4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<lastBuildDate>Fri, 09 Aug 2019 19:19:15 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/b0c02b4/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[dungeon.gg]]></author>
 		<copyright><![CDATA[dungeon.gg]]></copyright>
 		<language><![CDATA[pt-br]]></language>
@@ -27,10 +27,34 @@ Acesse https://dungeon.gg e participe da melhor comunidade brasileira de RPG!</i
 			<itunes:email>cronicas@dungeon.gg</itunes:email>
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Games &amp; Hobbies">
-			<itunes:category text="Other Games"/>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+		<item>
+			<title><![CDATA[Crônicas da Dungeon #13 – Economia]]></title>
+			<description><![CDATA[<p>Continuando o papo do último episódio, Casé e Tuchouz se juntam a mim para deixarmos algumas dicas&amp;truques para os mestres gerirem a economia de suas campanhas.</p>
+<p>Mas não se preocupe jogador! Muca está aqui também para ajudá-los a não serem enganados pelos mestres malvados!</p>
+<p>Curta e compartilhe com geral para aumentar nosso orçamento!</p>
+<p>Visite <a href="https://dungeon.gg">dungeon.gg</a> e faça parte da melhor comunidade brasileira de RPG</p>
+]]></description>
+			<link>https://anchor.fm/dungeongg/episodes/Crnicas-da-Dungeon-13--Economia-e4sslh</link>
+			<guid isPermaLink="false">a6eb8ec4-478d-77ee-2c87-31d73605a27c</guid>
+			<dc:creator><![CDATA[dungeon.gg]]></dc:creator>
+			<pubDate>Thu, 08 Aug 2019 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/b0c02b4/podcast/play/4141169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-8%2F20474104-44100-2-3b72290eb567f.mp3" length="57961825" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Continuando o papo do último episódio, Casé e Tuchouz se juntam a mim para deixarmos algumas dicas&amp;amp;truques para os mestres gerirem a economia de suas campanhas.&lt;/p&gt;
+&lt;p&gt;Mas não se preocupe jogador! Muca está aqui também para ajudá-los a não serem enganados pelos mestres malvados!&lt;/p&gt;
+&lt;p&gt;Curta e compartilhe com geral para aumentar nosso orçamento!&lt;/p&gt;
+&lt;p&gt;Visite &lt;a href=&quot;https://dungeon.gg&quot;&gt;dungeon.gg&lt;/a&gt; e faça parte da melhor comunidade brasileira de RPG&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2409</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/1753365/1753365-1556745954602-3c90fcde3dc55.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 		<item>
 			<title><![CDATA[Crônicas da Dungeon #12 – Criando uma cidade]]></title>
 			<description><![CDATA[<p>Mestres novatos que criam cenários próprios costumam ter dificuldades para criar uma cidade convincente, coesa e que muda junto com os jogadores. Eu tive e ainda tenho, mas nada temam! El Rey del Paraguay está aqui para nos ajudar!</p>
